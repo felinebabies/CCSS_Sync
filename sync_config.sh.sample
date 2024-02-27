@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# 外部設定変数
+local_dir=""
+remote_dir=""
+remote_host="steamdeck"
+remote_user="deck"
